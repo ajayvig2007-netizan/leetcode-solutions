@@ -8,11 +8,11 @@
 **Status:** Accepted<br>
 **Submitted:** 2026-09-22 13:27 local time
 
-**Runtime:** 8 ms (beats 97.672%)
-**Memory:** 13.7 MB (beats 47.60910000000001%)
+**Runtime:** 15 ms (beats 71.5815%)
+**Memory:** 13.6 MB (beats 47.60910000000001%)
 
 
-<!-- leetgit:submissionId=2149477880 codeHash=6896c31e063c541dccae5d6740ab802fa5378ed383dfd50930f61c2dda327730 notesHash=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
+<!-- leetgit:submissionId=2149478260 codeHash=94f8e628ad239ee22ee85162c95ba93bfed660bcfa6719aafdb9097f3efa37c6 notesHash=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
 
 ## Solution
 
@@ -24,14 +24,14 @@ class Solution(object):
         l, r = 0, len(s) - 1
 
         while l < r:
-            while l < r and s[l] not in v:
+            if s[l] not in v:
                 l += 1
-            while l < r and s[r] not in v:
+            elif s[r] not in v:
                 r -= 1
-
-            s[l], s[r] = s[r], s[l]
-            l += 1
-            r -= 1
+            else:
+                s[l], s[r] = s[r], s[l]
+                l += 1
+                r -= 1
 
         return "".join(s)
 ```
