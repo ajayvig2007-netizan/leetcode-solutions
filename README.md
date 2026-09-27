@@ -1,16 +1,16 @@
 # 🚀 LeetCode DSA Journey
 
-A growing collection of **85+ LeetCode solutions in Python**, organized by **DSA patterns** instead of random problem numbers.
+My personal repository for learning **Data Structures & Algorithms with Python** through consistent LeetCode practice.
 
-The goal is simple: **solve consistently → understand the pattern → improve problem-solving.**
+> **Goal:** solve → understand the pattern → review → improve.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Problems](https://img.shields.io/badge/Problems-85%2B-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
 
-## 📊 Progress
+## 📊 Current Progress
 
-| DSA Pattern | Problems |
+| Pattern | Problems |
 |---|---:|
 | Arrays | 12 |
 | Hashing | 11 |
@@ -27,83 +27,54 @@ The goal is simple: **solve consistently → understand the pattern → improve 
 | Segment Tree | 1 |
 | **Total** | **85** |
 
-## 🧠 Pattern-Based Learning
+These numbers are a snapshot of the repository and will change as I keep practicing.
 
-### Arrays
-[View problems →](./arrays)
+## 🧩 Patterns
 
-### Hashing
-[View problems →](./hashing)
+| Topic | Folder |
+|---|---|
+| Arrays | [arrays](./arrays) |
+| Hashing | [hashing](./hashing) |
+| Sliding Window | [sliding-window](./sliding-window) |
+| Two Pointers | [two-pointers](./two-pointers) |
+| Prefix Sum | [prefix-sum](./prefix-sum) |
+| Matrix | [matrix](./matrix) |
+| Binary Search | [binary-search](./binary-search) |
+| Backtracking | [backtracking](./backtracking) |
+| Stack | [stack](./stack) |
+| Strings | [strings](./strings) |
+| Dynamic Programming | [dynamic-programming](./dynamic-programming) |
+| Math | [math](./math) |
+| Segment Tree | [segment-tree](./segment-tree) |
 
-### Sliding Window
-[View problems →](./sliding-window)
+For a quick overview of what I am learning in each area, see **[TOPICS.md](./TOPICS.md)**.
 
-### Two Pointers
-[View problems →](./two-pointers)
+## 🧠 What I Am Practicing
 
-### Prefix Sum
-[View problems →](./prefix-sum)
+- Writing solutions in Python
+- Hash maps and frequency counting
+- Sliding-window techniques
+- Two-pointer patterns
+- Prefix sums
+- Matrix problems
+- Backtracking and recursion
+- String algorithms
+- Dynamic programming
+- Understanding time and space complexity
+- Improving solutions after getting them accepted
 
-### Matrix
-[View problems →](./matrix)
+## 🔁 Learning Process
 
-### Binary Search
-[View problems →](./binary-search)
+I am keeping this repository as a **real learning history**, not just a collection of final answers.
 
-### Backtracking
-[View problems →](./backtracking)
+For many problems, the repository contains multiple submission snapshots. This lets me look back at how my approach changed while learning a topic.
 
-### Stack
-[View problems →](./stack)
-
-### Strings
-[View problems →](./strings)
-
-### Dynamic Programming
-[View problems →](./dynamic-programming)
-
-### Math
-[View problems →](./math)
-
-### Segment Tree
-[View problems →](./segment-tree)
-
-## ⭐ Why this repository?
-
-This repo is built as a **learning journey**, not just a list of accepted submissions.
-
-I use it to:
-
-- 📚 Build strong DSA fundamentals
-- 🧩 Recognize common problem-solving patterns
-- 🐍 Practice Python for coding interviews and contests
-- 🔍 Review problems by topic
-- 📈 Track progress over time
-
-## 🛠️ Tech Stack
-
-- **Language:** Python
-- **Platform:** LeetCode
-- **Focus:** Data Structures & Algorithms
-- **Organization:** Pattern-based folders
-
-## 🎯 Current Focus
-
-- Arrays & Hashing
-- Sliding Window
-- Two Pointers
-- Prefix Sum
-- Backtracking
-- Strings
-- Dynamic Programming
-
-More patterns will be added as the problem count grows.
+The goal is not to make every solution look perfect. The goal is to **understand why it works and gradually write better solutions**.
 
 ## 📁 Repository Structure
 
-```
+```text
 leetcode-solutions/
-│
 ├── arrays/
 ├── hashing/
 ├── sliding-window/
@@ -119,13 +90,19 @@ leetcode-solutions/
 └── segment-tree/
 ```
 
-Each problem keeps its existing solution/history files, while the top-level structure makes the repository easier to navigate.
+Each problem keeps its solution/history files inside the relevant pattern folder.
 
-## 🔥 Follow the Journey
+## 🎯 Current Focus
 
-If you're also learning DSA, feel free to **⭐ star the repository** and come back as the collection grows.
+My current practice is moving toward stronger **Hashing, Strings, Sliding Window, Backtracking, and Dynamic Programming** fundamentals.
 
-Suggestions, corrections, and useful improvements are welcome.
+More problems and patterns will be added as I continue.
+
+## ⭐ Follow the Journey
+
+If this repository helps you with DSA, feel free to ⭐ star it and check back as it grows.
+
+Suggestions and corrections are welcome.
 
 ---
 
