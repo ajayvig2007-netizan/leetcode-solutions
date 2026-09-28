@@ -12,20 +12,20 @@ My personal repository for learning **Data Structures & Algorithms with Python**
 
 | Pattern | Problems |
 |---|---:|
-| Arrays | 12 |
+| Arrays | 13 |
 | Hashing | 11 |
 | Sliding Window | 13 |
 | Two Pointers | 11 |
 | Prefix Sum | 8 |
 | Matrix | 5 |
-| Binary Search | 1 |
+| Binary Search | 2 |
 | Backtracking | 5 |
-| Stack | 2 |
-| Strings | 13 |
+| Stack | 3 |
+| Strings | 14 |
 | Dynamic Programming | 2 |
 | Math | 1 |
 | Segment Tree | 1 |
-| **Total** | **85** |
+| **Total** | **89** |
 
 These numbers are a snapshot of the repository and will change as I keep practicing.
 
