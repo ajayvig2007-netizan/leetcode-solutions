@@ -1,4 +1,4 @@
-# 🚀 LeetCode DSA Journey
+# LeetCode DSA Journey
 
 My personal repository for learning **Data Structures & Algorithms with Python** through consistent LeetCode practice.
 
@@ -8,7 +8,7 @@ My personal repository for learning **Data Structures & Algorithms with Python**
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Problems](https://img.shields.io/badge/Problems-85%2B-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
 
-## 📊 Current Progress
+## Current Progress
 
 | Pattern | Problems |
 |---|---:|
@@ -29,7 +29,7 @@ My personal repository for learning **Data Structures & Algorithms with Python**
 
 These numbers are a snapshot of the repository and will change as I keep practicing.
 
-## 🧩 Patterns
+## Patterns
 
 | Topic | Folder |
 |---|---|
@@ -49,7 +49,7 @@ These numbers are a snapshot of the repository and will change as I keep practic
 
 For a quick overview of what I am learning in each area, see **[TOPICS.md](./TOPICS.md)**.
 
-## 🧠 What I Am Practicing
+## What I Am Practicing
 
 - Writing solutions in Python
 - Hash maps and frequency counting
@@ -63,7 +63,7 @@ For a quick overview of what I am learning in each area, see **[TOPICS.md](./TOP
 - Understanding time and space complexity
 - Improving solutions after getting them accepted
 
-## 🔁 Learning Process
+## Learning Process
 
 I am keeping this repository as a **real learning history**, not just a collection of final answers.
 
@@ -71,7 +71,7 @@ For many problems, the repository contains multiple submission snapshots. This l
 
 The goal is not to make every solution look perfect. The goal is to **understand why it works and gradually write better solutions**.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 leetcode-solutions/
@@ -92,18 +92,18 @@ leetcode-solutions/
 
 Each problem keeps its solution/history files inside the relevant pattern folder.
 
-## 🎯 Current Focus
+## Current Focus
 
 My current practice is moving toward stronger **Hashing, Strings, Sliding Window, Backtracking, and Dynamic Programming** fundamentals.
 
 More problems and patterns will be added as I continue.
 
-## ⭐ Follow the Journey
+## Follow the Journey
 
-If this repository helps you with DSA, feel free to ⭐ star it and check back as it grows.
+If this repository helps you with DSA, feel free to star it and check back as it grows.
 
 Suggestions and corrections are welcome.
 
 ---
 
-**Keep solving. Keep learning. Keep improving. 🚀**
+**Keep solving. Keep learning. Keep improving.**
