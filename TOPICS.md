@@ -1,4 +1,4 @@
-# 🧩 DSA Topics
+# DSA Topics
 
 This file is a simple map of the patterns I am learning in this repository.
 
@@ -12,7 +12,7 @@ Focus:
 - Prefix/suffix techniques
 - Array manipulation
 
-[View solutions →](./arrays)
+[View solutions](./arrays)
 
 ## Hashing
 
@@ -133,7 +133,7 @@ Focus:
 
 ---
 
-## 📈 Next Step
+## Next Step
 
 As the repository grows, I will add more patterns and gradually improve older solutions after I understand better approaches.
 
