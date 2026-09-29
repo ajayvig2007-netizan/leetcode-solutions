@@ -1,0 +1,9 @@
+# Submission History — 32. Longest Valid Parentheses
+
+**Difficulty:** Hard
+**Topics:** String, Dynamic Programming, Stack, Bracket Sequences
+**Problem:** https://leetcode.com/problems/longest-valid-parentheses/
+
+| # | Date | Language | Status | Runtime | Memory | File |
+|---|------|----------|--------|---------|--------|------|
+| 1 | 2026-09-29 13:57 | Python | ✅ Accepted | 18 ms (82.79090000000001%) | 13.4 MB (87.9705%) | [view](./2026-09-29_13-57_python_accepted.md) |
