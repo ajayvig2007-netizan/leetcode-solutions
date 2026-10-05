@@ -6,7 +6,8 @@ My personal repository for learning **Data Structures & Algorithms with Python**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Problems](https://img.shields.io/badge/Problems-85%2B-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
+[![Problems](https://img.shields.io/badge/Problems-89-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
+[![Stars](https://img.shields.io/github/stars/ajayvig2007-netizan/leetcode-solutions?style=flat&logo=github)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
 
 ## Current Progress
 
