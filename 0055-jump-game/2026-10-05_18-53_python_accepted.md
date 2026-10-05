@@ -8,11 +8,11 @@
 **Status:** Accepted<br>
 **Submitted:** 2026-10-05 18:53 local time
 
-**Runtime:** 35 ms (beats 55.71480000000001%)
-**Memory:** 13.2 MB (beats 61.7408%)
+**Runtime:** 43 ms (beats 27.99770000000001%)
+**Memory:** 13.3 MB (beats 29.9439%)
 
 
-<!-- leetgit:submissionId=2163149636 codeHash=bd53c995a5b2cad81d1ef2e6b9491487d495dac1e0e784539de3d0cd5085a1de notesHash=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
+<!-- leetgit:submissionId=2163149950 codeHash=0d403ebcae50e2ebe8f6f5d41b742cf5d8ab40de995b55664b3b55c45d681c3f notesHash=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -->
 
 ## Solution
 
@@ -21,10 +21,10 @@ class Solution(object):
     def canJump(self, nums):
         flag=0
         start=0
-        if len(nums)==1:
-            return True
-        if nums[0]==0:
-            return False
+        # if len(nums)==1:
+        #     return True
+        # if nums[0]==0:
+        #     return False
         for i in range(len(nums)):
             if i>start:
                 return False
