@@ -1,14 +1,13 @@
 # DSA Topics
 
-This file is a simple map of the patterns I am learning in this repository.
+This file maps the patterns I am learning in this repository.
 
 The aim is to understand the **idea behind a pattern**, not just memorize a solution.
 
 ## Arrays
 
 Focus:
-- Traversal
-- In-place updates
+- Traversal and in-place updates
 - Prefix/suffix techniques
 - Array manipulation
 
@@ -17,22 +16,20 @@ Focus:
 ## Hashing
 
 Focus:
-- Frequency maps
-- Sets
+- Frequency maps and sets
 - Fast lookup
 - Counting patterns
 
-[View solutions →](./hashing)
+[View solutions](./hashing)
 
 ## Sliding Window
 
 Focus:
-- Fixed-size windows
-- Variable-size windows
+- Fixed-size and variable-size windows
 - Frequency tracking
 - Expanding and shrinking a window
 
-[View solutions →](./sliding-window)
+[View solutions](./sliding-window)
 
 ## Two Pointers
 
@@ -42,17 +39,16 @@ Focus:
 - Pair and range problems
 - In-place processing
 
-[View solutions →](./two-pointers)
+[View solutions](./two-pointers)
 
 ## Prefix Sum
 
 Focus:
-- Running sums
-- Subarray sums
+- Running sums and subarray sums
 - Prefix-frequency maps
 - Range calculations
 
-[View solutions →](./prefix-sum)
+[View solutions](./prefix-sum)
 
 ## Matrix
 
@@ -62,27 +58,25 @@ Focus:
 - Boundary handling
 - Grid simulation
 
-[View solutions →](./matrix)
+[View solutions](./matrix)
 
 ## Binary Search
 
 Focus:
 - Search space
 - Monotonic conditions
-- Lower/upper-bound style thinking
+- Lower/upper-bound thinking
 
-[View solutions →](./binary-search)
+[View solutions](./binary-search)
 
 ## Backtracking
 
 Focus:
 - DFS
 - Choice → recurse → undo
-- Subsets
-- Combinations
-- Permutations
+- Subsets and combinations
 
-[View solutions →](./backtracking)
+[View solutions](./backtracking)
 
 ## Stack
 
@@ -91,7 +85,7 @@ Focus:
 - Monotonic-stack ideas
 - Processing elements in reverse order
 
-[View solutions →](./stack)
+[View solutions](./stack)
 
 ## Strings
 
@@ -101,17 +95,34 @@ Focus:
 - String traversal
 - Prefix-function / LPS concepts
 
-[View solutions →](./strings)
+[View solutions](./strings)
 
 ## Dynamic Programming
 
 Focus:
-- States
-- Transitions
+- States and transitions
 - Reusing previous results
 - Top-down and bottom-up thinking
 
-[View solutions →](./dynamic-programming)
+[View solutions](./dynamic-programming)
+
+## Greedy
+
+Focus:
+- Making locally optimal choices
+- Sorting-based decisions
+- Tracking feasibility and current reach
+
+[View solutions](./greedy)
+
+## Heap / Priority Queue
+
+Focus:
+- Min-heaps and max-heaps
+- Repeatedly selecting the highest- or lowest-priority item
+- Frequency-based selection
+
+[View solutions](./heap)
 
 ## Math
 
@@ -120,7 +131,7 @@ Focus:
 - Arithmetic observations
 - Mathematical shortcuts
 
-[View solutions →](./math)
+[View solutions](./math)
 
 ## Segment Tree
 
@@ -129,7 +140,7 @@ Focus:
 - Updating values
 - Tree-based query structures
 
-[View solutions →](./segment-tree)
+[View solutions](./segment-tree)
 
 ---
 
