@@ -6,47 +6,51 @@ My personal repository for learning **Data Structures & Algorithms with Python**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![Problems](https://img.shields.io/badge/Problems-89-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
+[![Problems](https://img.shields.io/badge/Problem%20Folders-154-brightgreen)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
 [![Stars](https://img.shields.io/github/stars/ajayvig2007-netizan/leetcode-solutions?style=flat&logo=github)](https://github.com/ajayvig2007-netizan/leetcode-solutions)
 
 ## Current Progress
 
-| Pattern | Problems |
+| Pattern | Problem folders |
 |---|---:|
-| Arrays | 13 |
-| Hashing | 11 |
-| Sliding Window | 13 |
-| Two Pointers | 11 |
-| Prefix Sum | 8 |
-| Matrix | 5 |
-| Binary Search | 2 |
-| Backtracking | 5 |
-| Stack | 3 |
-| Strings | 14 |
-| Dynamic Programming | 2 |
+| Arrays | 24 |
+| Backtracking | 7 |
+| Binary Search | 10 |
+| Dynamic Programming | 7 |
+| Greedy | 7 |
+| Hashing | 17 |
+| Heap / Priority Queue | 2 |
 | Math | 1 |
+| Matrix | 6 |
+| Prefix Sum | 10 |
 | Segment Tree | 1 |
-| **Total** | **89** |
+| Sliding Window | 15 |
+| Stack | 16 |
+| Strings | 15 |
+| Two Pointers | 16 |
+| **Total** | **154** |
 
-These numbers are a snapshot of the repository and will change as I keep practicing.
+Counts reflect the problem folders currently organized in this repository and may change as I add more solutions.
 
 ## Patterns
 
 | Topic | Folder |
 |---|---|
 | Arrays | [arrays](./arrays) |
-| Hashing | [hashing](./hashing) |
-| Sliding Window | [sliding-window](./sliding-window) |
-| Two Pointers | [two-pointers](./two-pointers) |
-| Prefix Sum | [prefix-sum](./prefix-sum) |
-| Matrix | [matrix](./matrix) |
-| Binary Search | [binary-search](./binary-search) |
 | Backtracking | [backtracking](./backtracking) |
+| Binary Search | [binary-search](./binary-search) |
+| Dynamic Programming | [dynamic-programming](./dynamic-programming) |
+| Greedy | [greedy](./greedy) |
+| Hashing | [hashing](./hashing) |
+| Heap / Priority Queue | [heap](./heap) |
+| Math | [math](./math) |
+| Matrix | [matrix](./matrix) |
+| Prefix Sum | [prefix-sum](./prefix-sum) |
+| Segment Tree | [segment-tree](./segment-tree) |
+| Sliding Window | [sliding-window](./sliding-window) |
 | Stack | [stack](./stack) |
 | Strings | [strings](./strings) |
-| Dynamic Programming | [dynamic-programming](./dynamic-programming) |
-| Math | [math](./math) |
-| Segment Tree | [segment-tree](./segment-tree) |
+| Two Pointers | [two-pointers](./two-pointers) |
 
 For a quick overview of what I am learning in each area, see **[TOPICS.md](./TOPICS.md)**.
 
@@ -57,18 +61,20 @@ For a quick overview of what I am learning in each area, see **[TOPICS.md](./TOP
 - Sliding-window techniques
 - Two-pointer patterns
 - Prefix sums
-- Matrix problems
+- Binary search
+- Greedy decisions and heap-based problems
+- Matrix traversal
 - Backtracking and recursion
-- String algorithms
+- Stack patterns and string algorithms
 - Dynamic programming
 - Understanding time and space complexity
 - Improving solutions after getting them accepted
 
 ## Learning Process
 
-I am keeping this repository as a **real learning history**, not just a collection of final answers.
+This repository keeps a **learning history**, not just a collection of final answers.
 
-For many problems, the repository contains multiple submission snapshots. This lets me look back at how my approach changed while learning a topic.
+Problem folders may contain multiple submission snapshots and a `history.md` file so I can review how my approach changed over time.
 
 The goal is not to make every solution look perfect. The goal is to **understand why it works and gradually write better solutions**.
 
@@ -77,31 +83,35 @@ The goal is not to make every solution look perfect. The goal is to **understand
 ```text
 leetcode-solutions/
 ├── arrays/
-├── hashing/
-├── sliding-window/
-├── two-pointers/
-├── prefix-sum/
-├── matrix/
-├── binary-search/
 ├── backtracking/
+├── binary-search/
+├── dynamic-programming/
+├── greedy/
+├── hashing/
+├── heap/
+├── math/
+├── matrix/
+├── prefix-sum/
+├── segment-tree/
+├── sliding-window/
 ├── stack/
 ├── strings/
-├── dynamic-programming/
-├── math/
-└── segment-tree/
+├── two-pointers/
+├── README.md
+└── TOPICS.md
 ```
 
-Each problem keeps its solution/history files inside the relevant pattern folder.
+Each problem is stored inside a DSA pattern folder. Root-level problem folders have been moved into the pattern structure, and when duplicate folders existed, their files were retained with distinct names where needed.
 
 ## Current Focus
 
-My current practice is moving toward stronger **Hashing, Strings, Sliding Window, Backtracking, and Dynamic Programming** fundamentals.
+I am strengthening **Hashing, Strings, Sliding Window, Backtracking, Greedy, Heap, and Dynamic Programming** fundamentals.
 
 More problems and patterns will be added as I continue.
 
 ## Follow the Journey
 
-If this repository helps you with DSA, feel free to star it and check back as it grows.
+If this repository helps you with DSA, feel free to star it and check back as it grows. The star badge above displays the repository's live star count.
 
 Suggestions and corrections are welcome.
 
